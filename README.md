@@ -18,14 +18,14 @@ building real-world projects, and continuously improving my technical skills.
 - 🤝 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
 - 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **raphael@rdgmh.onmicrosoft.com**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/aphgab">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
@@ -124,7 +124,7 @@ A short description of your third project.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yourusername"/>
+<img src="https://streak-stats.demolab.com?user=raphgm"/>
 
 </p>
 
