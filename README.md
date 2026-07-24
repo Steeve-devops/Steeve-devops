@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Omowumi</h1>
 
 <p align="center">
-<strong>Aspiring Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+<strong>Multi-Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
 </p>
 
 <p align="center">
-Welcome to my GitHub profile! I'm passionate about learning new technologies,
+Welcome to my GitHub profile! I'm passionate about learning new cloud technologies,
 building real-world projects, and continuously improving my technical skills.
 </p>
 
@@ -13,19 +13,19 @@ building real-world projects, and continuously improving my technical skills.
 
 # 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Project Name**
-- 🌱 I'm currently learning **Technology**
+- 🔭 I'm currently working on **a couple of DevOps projects**
+- 🌱 I'm currently learning **Cloud Technologies and Cybersecurity (DevSecops)**
 - 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Programming, Cloud, Linux, or DevOps**
+- 💬 Ask me about **Cybersecurity GRC, Cybersecurity Audit, Cloud, Linux, or DevOps**
 - 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **raphael@rdgmh.onmicrosoft.com**
+- 📫 Reach me at **stephenomowumi2025@gmail.com**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/aphgab">
+<a href="https://github.com/steeve-devops">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
