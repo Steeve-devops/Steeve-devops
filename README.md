@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen Omowumi</h1>
 
 <p align="center">
-<strong>Multi-Cloud Engineer • Software Developer • DevOps Enthusiast</strong>
+<strong>Multi-Cloud Engineer • Senior Cybersecurity GRC Consultant • DevOps Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@ building real-world projects, and continuously improving my technical skills.
 
 # 👨‍💻 About Me
 
-- 🔭 I'm currently working on **a couple of DevOps projects**
-- 🌱 I'm currently learning **Cloud Technologies and Cybersecurity (DevSecops)**
-- 🤝 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Cybersecurity GRC, Cybersecurity Audit, Cloud, Linux, or DevOps**
-- 🎯 My goal is to become a **Cloud & DevOps Engineer**
+- 🔭 I'm currently working on **building real-world Cloud and DevOps projects to strengthen my Cloud Engineering skills**
+- 🌱 I'm currently learning **AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, Linux Administration, and cloud Security**
+- 🤝 I'm excited to collaborate on **Cloud, DevOps, Automation, and Open Source initiatives.**
+- 💬 Ask me about **Cybersecurity GRC, Cybersecurity Audit, Cloud Computing, Linux, or DevOps**
+- 🎯 My goal is to build **reliable cloud infrastructure and automate deployments using modern DevOps practices**
 - 📫 Reach me at **stephenomowumi2025@gmail.com**
 
 ---
