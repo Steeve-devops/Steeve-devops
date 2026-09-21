@@ -1,4 +1,4 @@
-<h1 align="center">⚡ STEEVE.DEVOPS</h1>
+<h1 align="center">⚡ Meet Stephen OMOWUMI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=850&lines=DevOps+Engineer+%7C+Platform+Engineer;Cloud+%7C+DevSecOps+%7C+IAM;Infrastructure+as+Code+%7C+Automation;Secure+Cloud+Platforms+%7C+Observability;Engineering+for+the+Next+Generation+of+Infrastructure" />
