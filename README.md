@@ -13,7 +13,7 @@ I combine governance and risk expertise with hands-on experience across Microsof
 
 # 👨‍💻 About Me
 
-* 🔭 I'm currently working as a <strong>Cyber Audit Officer</strong>, focusing on cybersecurity risk, IT controls, audit assurance, and regulatory compliance.
+* 🔭 I'm currently working as a <strong>Cybersecurity Internal Auditor</strong>, focusing on cybersecurity risk, IT controls, audit assurance, and regulatory compliance.
 * 🌱 I'm continuously developing my expertise across <strong>Cybersecurity GRC, Cloud Security, Microsoft Azure, DevSecOps, IAM, IT Audit, and Security Assurance</strong>.
 * 🛡️ Experienced in assessing cybersecurity controls against frameworks including <strong>ISO 27001, NIST CSF, NIST 800-53, COBIT, GDPR, DORA, PCI DSS, and SOC 2</strong>.
 * ☁️ Hands-on experience with <strong>Microsoft Azure, Microsoft Entra, Azure DevOps, Azure Monitor, Azure Container Apps, Azure Networking, and Azure Storage</strong>.
