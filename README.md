@@ -427,14 +427,12 @@ Exploring:
 # 🏆 MICROSOFT APPLIED SKILLS
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Networking-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Networking-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
 
 <details>
@@ -442,17 +440,18 @@ Exploring:
 
 <br>
 
-| Area              | Applied Skill                       |
-| ----------------- | ----------------------------------- |
-| 🤖 AI             | GitHub Copilot issue resolution     |
-| 🔐 Identity       | Microsoft Entra identities & access |
-| 🏢 Infrastructure | Active Directory Domain Services    |
-| ⚙️ DevOps         | Azure DevOps security pipelines     |
-| ☁️ Cloud          | Azure Container Apps                |
-| 🌐 Networking     | Secure Azure networking             |
-| 📊 Monitoring     | Azure Monitor                       |
-| 🛡️ Security      | Cloud security & monitoring         |
-| 💾 Storage        | Azure Files & Blob Storage          |
+| Area              | Applied Skill                                                       | Credential |
+| :---------------- | :------------------------------------------------------------------ | :--------- |
+| 🤖 AI             | Resolve GitHub issues by using GitHub Copilot                        | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/resolve-github-issues-by-using-github-copilot) |
+| 🏢 Infrastructure | Administer Active Directory Domain Services                         | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/administer-active-directory-domain-services) |
+| ⚙️ DevOps         | Implement security through a pipeline using Azure DevOps            | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/implement-security-through-pipeline-using-devops) |
+| ☁️ Cloud          | Deploy cloud-native apps using Azure Container Apps                 | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/deploy-cloud-native-apps-using-azure-container-apps) |
+| 🔐 Identity       | Get started with identities and access using Microsoft Entra        | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-identities-and-access-using-microsoft-entra) |
+| 🌐 Networking     | Configure secure access to your workloads using Azure networking    | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/configure-secure-workloads-use-azure-virtual-networking) |
+| 🛡️ Security       | Get started with cloud security and monitoring tasks                | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-cloud-security-and-monitoring-tasks) |
+| 📊 Monitoring     | Deploy and configure Azure Monitor                                  | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/deploy-and-configure-azure-monitor) |
+| ⚙️ Management     | Get started with Azure management tasks                             | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-azure-management-tasks) |
+| 💾 Storage        | Secure storage for Azure Files and Azure Blob Storage               | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/secure-storage-azure-files-azure-blob-storage) |
 
 </details>
 
