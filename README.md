@@ -442,15 +442,15 @@ Exploring:
 
 | Area              | Applied Skill                                                       | Credential |
 | :---------------- | :------------------------------------------------------------------ | :--------- |
-| 🤖 AI             | Resolve GitHub issues by using GitHub Copilot                        | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/resolve-github-issues-by-using-github-copilot) |
-| 🏢 Infrastructure | Administer Active Directory Domain Services                         | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/administer-active-directory-domain-services) |
-| ⚙️ DevOps         | Implement security through a pipeline using Azure DevOps            | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/implement-security-through-pipeline-using-devops) |
-| ☁️ Cloud          | Deploy cloud-native apps using Azure Container Apps                 | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/deploy-cloud-native-apps-using-azure-container-apps) |
-| 🔐 Identity       | Get started with identities and access using Microsoft Entra        | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-identities-and-access-using-microsoft-entra) |
-| 🌐 Networking     | Configure secure access to your workloads using Azure networking    | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/configure-secure-workloads-use-azure-virtual-networking) |
-| 🛡️ Security       | Get started with cloud security and monitoring tasks                | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-cloud-security-and-monitoring-tasks) |
-| 📊 Monitoring     | Deploy and configure Azure Monitor                                  | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/deploy-and-configure-azure-monitor) |
-| ⚙️ Management     | Get started with Azure management tasks                             | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-azure-management-tasks) |
+| 🤖 AI             | Resolve GitHub issues by using GitHub Copilot                        | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/C9A23D7C53EBF73?sharingId=3B9E4A2CD537FBA1) |
+| 🏢 Infrastructure | Administer Active Directory Domain Services                         | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/FA1EA5BC65B07758?sharingId=3B9E4A2CD537FBA1) |
+| ⚙️ DevOps         | Implement security through a pipeline using Azure DevOps            | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/1132AA021C3A10E?sharingId=3B9E4A2CD537FBA1) |
+| ☁️ Cloud          | Deploy cloud-native apps using Azure Container Apps                 | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/C2F0EC15A4B442FA?sharingId=3B9E4A2CD537FBA1) |
+| 🔐 Identity       | Get started with identities and access using Microsoft Entra        | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/9D440CFF5C109E52?sharingId=3B9E4A2CD537FBA1) |
+| 🌐 Networking     | Configure secure access to your workloads using Azure networking    | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/A5F01B6348FE27F3?sharingId=3B9E4A2CD537FBA1) |
+| 🛡️ Security       | Get started with cloud security and monitoring tasks                | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/BB7C918651C85096?sharingId=3B9E4A2CD537FBA1) |
+| 📊 Monitoring     | Deploy and configure Azure Monitor                                  | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/BB7C918651C85096?sharingId=3B9E4A2CD537FBA1) |
+| ⚙️ Management     | Get started with Azure management tasks                             | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/18F797F13374CF34?sharingId=3B9E4A2CD537FBA1) |
 | 💾 Storage        | Secure storage for Azure Files and Azure Blob Storage               | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/7C364BCCB8FF667E?sharingId=3B9E4A2CD537FBA1) |
 
 </details>
