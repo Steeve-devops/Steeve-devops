@@ -451,7 +451,7 @@ Exploring:
 | 🛡️ Security       | Get started with cloud security and monitoring tasks                | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-cloud-security-and-monitoring-tasks) |
 | 📊 Monitoring     | Deploy and configure Azure Monitor                                  | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/deploy-and-configure-azure-monitor) |
 | ⚙️ Management     | Get started with Azure management tasks                             | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/get-started-with-azure-management-tasks) |
-| 💾 Storage        | Secure storage for Azure Files and Azure Blob Storage               | [View Skill](https://learn.microsoft.com/en-gb/users/stephenomowumi-2811/credentials/applied-skill/secure-storage-azure-files-azure-blob-storage) |
+| 💾 Storage        | Secure storage for Azure Files and Azure Blob Storage               | [View Skill](https://learn.microsoft.com/api/credentials/share/en-gb/STEPHENOMOWUMI-2811/7C364BCCB8FF667E?sharingId=3B9E4A2CD537FBA1) |
 
 </details>
 
